@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "196531205383",
+    "firebase_url": "https://euro2020football-8b607-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "euro2020football-8b607",
+    "storage_bucket": "euro2020football-8b607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196531205383:android:d42fdd946638767d6881a2",
+        "android_client_info": {
+          "package_name": "com.example.euro2020football"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196531205383-cnvjl1ugucs77g1j8nhgqvqadm6t2ss8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd7QypMD5sV5IDjLAH9sa8KhiGqF8jA34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196531205383-cnvjl1ugucs77g1j8nhgqvqadm6t2ss8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
